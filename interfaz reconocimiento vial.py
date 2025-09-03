@@ -2,7 +2,7 @@
 """
 Created on Tue Sep  2 19:16:29 2025
 
-@author: Jose Henao
+@author: Jose Henao Alzate
 """
 
 from tkinter import *
